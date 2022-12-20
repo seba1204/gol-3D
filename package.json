@@ -1,0 +1,26 @@
+{
+  "name": "gol-3d",
+  "version": "0.1.0",
+  "description": "Yet another Game of life",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seba1204/gol-3D.git"
+  },
+  "keywords": [
+    "reactjs",
+    "webgl",
+    "gol",
+    "game-of-life",
+    "3d"
+  ],
+  "author": "Sébastien PONT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seba1204/gol-3D/issues"
+  },
+  "homepage": "https://github.com/seba1204/gol-3D#readme"
+}
